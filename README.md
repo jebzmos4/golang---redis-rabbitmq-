@@ -1,2 +1,2 @@
-# MTN Outgoing Message Sender
+Outgoing Message Sender
 
